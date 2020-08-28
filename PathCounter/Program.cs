@@ -15,6 +15,7 @@ namespace PathCounter
             Console.WriteLine($"3 x 6 = {Calculate(3, 6)}");
             Console.WriteLine($"6 x 3 = {Calculate(6, 3)}");
             Console.WriteLine($"5 x 5 = {Calculate(5, 5)}");
+            Console.WriteLine($"7 x 7 = {Calculate(7, 7)}");
             Console.ReadKey();
         }
 
